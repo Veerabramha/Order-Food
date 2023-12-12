@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
 @import url(https://db.onlinewebfonts.com/c/49bf5d043a27b890a040cf393277e2b2?family=TT+Norms+Pro+Regular);
 @import url(https://db.onlinewebfonts.com/c/16ea2b7277fbb154f052f8b8071dc31f?family=FSP+DEMO+-+TT+Norms+Pro+Medium);
-@import url(https://db.onlinewebfonts.com/c/9278dca5ec4b44d91e886e7066c47e1b?family=Georgia+Regular);
+@import url(https://db.onlinewebfonts.com/c/7dca09e227fdfe16908cebb4244589e4?family=Georgia);
 
 * {
     margin: 0px;
@@ -24,7 +24,7 @@
 .nav-option {
     color: #000000;
     text-decoration: none;
-    font-family: "Georgia Regular";
+    font-family: "Georgia";
     font-weight: bold;
     font-size: 16px;
     padding-right: 50px;
